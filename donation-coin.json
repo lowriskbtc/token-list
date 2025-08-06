@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "46G8Tf9RQEHB1oDZZBHXGmBeML48tgQzBbBCBBPPL1rK",
+  "symbol": "DONATE",
+  "name": "Donation Coin",
+  "decimals": 9,
+  "logoURI": "https://i.imgur.com/f86VmWM.png",
+  "tags": ["charity", "donation", "community"]
+}
